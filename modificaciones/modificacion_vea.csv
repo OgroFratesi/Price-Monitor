@@ -1,0 +1,35 @@
+,Marca,Subtipo,Tamaño,Pack,Precio_ayer,Precio_hoy
+18,Gatorade,Manzana,500,1.0,66.0,99.0
+19,Gatorade,Cool Blue,500,1.0,66.0,99.0
+20,Gatorade,Frutas Tropi,500,1.0,66.0,99.0
+21,Gatorade,Naranja,500,1.0,66.0,99.0
+23,Gatorade,Naranja,1250,1.0,111.0,167.0
+25,Andes,IPA,473,6.0,83.33333333333333,131.5
+26,Andes,Negra,473,1.0,83.0,147.0
+27,Andes,Roja,473,6.0,83.0,131.5
+28,Andes,Rubia,473,6.0,74.16666666666667,115.83
+35,Patagonia,Hoppy Lager,269,6.0,94.0,20.83
+36,Patagonia,Amber Lager,473,1.0,182.0,134.0
+37,Patagonia,Amber Lager,730,1.0,264.0,176.0
+38,Patagonia,Bohemian Pilsener,730,1.0,264.0,176.0
+39,Patagonia,Hoppy Lager,730,1.0,264.0,176.0
+40,Patagonia,24.7,473,1.0,182.0,134.0
+41,Patagonia,24.7,730,1.0,264.0,176.0
+42,Patagonia,Weisse,473,1.0,182.0,134.0
+43,Patagonia,Weisse,730,1.0,264.0,176.0
+47,Quilmes,Clásica,473,1.0,90.0,100.0
+52,Stella Artois,Noire,473,1.0,90.0,165.0
+57,7up,Normal,354,1.0,43.0,38.0
+63,h2o,Citrus,1500,1.0,86.0,114.0
+64,h2o,Citrus,2250,1.0,116.0,155.0
+66,h2o,Limoneto,1500,1.0,86.0,114.0
+67,h2o,Limoneto,2250,1.0,116.0,155.0
+76,Pepsi,Black,2250,1.0,142.0,190.0
+77,Pepsi,Black,500,1.0,48.0,64.0
+78,Pepsi,Pet,354,1.0,43.0,38.0
+80,Pepsi,Pet,2250,1.0,142.0,190.0
+81,Pepsi,Pet,500,1.0,48.0,64.0
+90,Blasfemia,Blanco Chenin,269,6.0,120.0,21.5
+97,Novecento,Raices Cabernet Sauvignon,750,1.0,264.0,352.0
+100,Novecento,Tinto Malbec,750,1.0,194.25,259.0
+101,Novecento,Tinto Cabernet Sauvignon,750,1.0,194.0,259.0
